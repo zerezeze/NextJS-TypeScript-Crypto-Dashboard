@@ -14,5 +14,7 @@ Um dashboard responsivo de criptomoedas construído com Next.js, TypeScript e Ta
 - Gráficos e tendências de mercado.
 - Design responsivo, compatível com dispositivos móveis e desktops.
 
+- git clone / npm install / npm run dev
+
 <img src="crypto.png"></img>
 
