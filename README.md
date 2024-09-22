@@ -2,6 +2,8 @@
 
 Um dashboard responsivo de criptomoedas construído com Next.js, TypeScript e Tailwind CSS. Permite monitorar preços em tempo real e visualizar tendências do mercado de forma intuitiva e acessível.
 
+- git clone / npm install / npm run dev
+
 ## Tecnologias Utilizadas
 
 - **Next.js**: Framework React para aplicações web.
@@ -18,5 +20,5 @@ Um dashboard responsivo de criptomoedas construído com Next.js, TypeScript e Ta
 
 <img src="crypto.png"></img>
 
-- git clone / npm install / npm run dev
+
 
